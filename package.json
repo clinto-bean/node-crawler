@@ -1,0 +1,17 @@
+{
+  "name": "crawler",
+  "version": "0.0.1",
+  "description": "Node web crawler",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "clinton clark",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
